@@ -1,0 +1,27 @@
+body
+{
+     background-color: #355296;  /* dark background */
+    color: white;               /* text becomes white */
+    font-family: Arial, sans-serif; /* font changes */
+    text-align: center;   
+     margin-top: 120px;      /* text moves to center */
+}
+h1{
+    color:orange;
+     font-size: 56px;
+}
+p {
+    font-size: 22px;
+    max-width: 700px;
+    margin: 20px auto;
+}
+
+button{
+     background-color: #38bdf8;
+    color: white;
+    border: none;
+    padding: 15px 35px;
+    font-size: 18px;
+   border-radius: 10px;
+    cursor: pointer;
+}
